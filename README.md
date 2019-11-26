@@ -1,4 +1,4 @@
-# Título del Proyecto
+# WebService realizado en el lenguaje PHP
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
@@ -102,4 +102,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ :heart: por :blush: [Rafael Benites Gomez](https://github.com/rsfaelto1234)
+⌨️ con :heart: por :blush: [Rafael Benites Gomez](https://github.com/rsfaelto1234)
