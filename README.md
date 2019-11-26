@@ -10,3 +10,8 @@ WebService realizado en el Lenguaje PHP y Motor de Base de Datos MYSQL
 Modo de Uso:
 
 > Para poder ejecutar el WebService , se debe modificar los parametros de la conexion de la Base de Datos, previamente haber importado la Base de Datos bdServicios.sql
+
+
+⌨️ con ❤️ por Villanuevand 😊
+
+con :heart: por :blush: [Rafael Benites Gomez](https://github.com/Villanuevand)
