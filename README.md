@@ -1,6 +1,9 @@
 # WebServicePHP
-WebService realizado en el lenguaje PHP 
+WebService realizado en el lenguaje PHP y MYSQL
 
 
-listo para subir a un HOSTING
+## Listo para subir a un HOSTING :thumbsup:
+
+- PHP 7
 - PDO para la conexion de la Base de Datos
+-
